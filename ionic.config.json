@@ -1,0 +1,7 @@
+{
+  "name": "wplms",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
